@@ -33,7 +33,7 @@ git commit -m "mensagem"
 ```
 git status
 ```
-### 6 - Conferir a alteração
+### 6 - Enviar a alteração
 ```
-git status
+git pull
 ```
